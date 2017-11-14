@@ -1,0 +1,25 @@
+{
+  "name": "sandbox-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/sandbox-training/sandbox-data.git"
+  },
+  "author": "Thomas Sloboda <thomas@sloboda.fr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/sandbox-training/sandbox-data/issues"
+  },
+  "homepage": "https://gitlab.com/sandbox-training/sandbox-data#readme.md",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "glob": "^7.1.2",
+    "sequelize": "^4.22.5",
+    "sqlite3": "^3.1.13"
+  }
+}
