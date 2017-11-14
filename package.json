@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/sandbox-training/sandbox-data.git"
+    "url": "git+https://github.com/sandbox-training/sandbox-data.git"
   },
   "author": "Thomas Sloboda <thomas@sloboda.fr>",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/sandbox-training/sandbox-data/issues"
+    "url": "https://github.com/sandbox-training/sandbox-data/issues"
   },
-  "homepage": "https://gitlab.com/sandbox-training/sandbox-data#readme.md",
+  "homepage": "https://github.com/sandbox-training/sandbox-data#readme.md",
   "dependencies": {
     "dotenv": "^4.0.0",
     "glob": "^7.1.2",
